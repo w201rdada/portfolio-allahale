@@ -1,4 +1,4 @@
-FROM w201rdada/portfolio:fa17
+FROM w201rdada/portfolio:82106ad
 USER root
 COPY . /home/rstudio/
 RUN chown -R rstudio:rstudio * .*
