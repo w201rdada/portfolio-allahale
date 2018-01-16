@@ -1,24 +1,39 @@
-# My first cool idea {#slug-one}
+# Cena-An Automated Menu Planner {#A digital foodie friend making meal planning easy}
 
 #### Keywords {-}
 
 yaba, daba, do
 
-## A beginning.
+## Do we really have to eat again?
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+The daily struggle to come up with a dinner solution is real. Meal planning can help solve the problem by providing a simple plan to follow every night.
+But, let's be honest, putting together a meal plan takes hours! First, you sift through the multitudes of online recipes. Next, you become overwhelmed. Then, you select interesting, but easy recipes likely to satisfy the picky eater(s). At this point, you realize that all the meals that week include chicken, so you go back and sift through recipes again for variety.  After several iterations, you have a meal plan, and you can check ingredient lists to put together a weekly shopping list. After all that, you need a nap! 
+What if you had a way to automate it?  A foodie best friend that hands you a list of personalized recipes and guides you with a shopping list? 
 
-## A middle.
+## Welcome Cena, your menu navigator.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Cena will scour recipe websites and deliver a personalized menu plan along with a shopping list.  
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+Cena will take a minute to get to know you and your food preferences then take off scraping the web for recipes.  Using an algorithm yet-to-be-determined, it will rank recipes, and select a handful for a complete week of meals.  After you approve the suggestion, Cena will compile a shopping list based on the recipe ingredient lists.  
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+To get to know you, as the eater, Cena will ask about basic dietary restrictions, but then you will get to play a quick game of "Would you rather eat this or that?". Based on the responses to this game, Cena will present your first meal plan.  
 
-## An end.
+As for the algorithm to rank the recipes, some possible inputs include:
+Dietary restrictions (Vegetarian, vegan, gluten free, Kosher, Halal, etc.)
+Similarity to recipes included in the same menu plan, similarity to recipes from previous plans for this user
+Rating of previous meals by this user
+Toddler preferences for light-colored carb-heavy foods
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Cena will combine and organize individual recipes into meals, keeping an eye towards reduced complexity or interesting flavor combinations, depending on previous meal ratings.  
+
+Creating the corresponding shopping lists should be simple since most online recipes include an ingredient list.  Cena practically holds your hand at the grocery store. 
+
+You will be able to rate both meal plans and meals individually.  The more you use it, the better Cena will know you (and users like you).  Cena will utilize machine learning(?) to tailor ever more personalized meal plans for you.  
+
+## What will you do with your free time?
+
+Over time, Cena will learn your preferences. It will plan meals that evoke your childhood or delightfully surprise you by pushing your epicurean boundaries. If Cena ever gets it wrong, you can easily swap out a meal or a whole plan for something different.
+
+Best of all, it will remove the mountain of small decisions from your day, freeing up your time and energy to tackle the big stuff. 
+
+
