@@ -2,13 +2,15 @@
 
 #### Keywords {-}
 
-yaba, daba, do
+menu, menu planning, shopping list, food, dinner, meal, problem solver, we have to eat again
 
 ## Do we really have to eat again?
 
 The daily struggle to come up with a dinner solution is real. Meal planning can help solve the problem by providing a simple plan to follow every night.
-But, let's be honest, putting together a meal plan takes hours! First, you sift through the multitudes of online recipes. Next, you become overwhelmed. Then, you select interesting, but easy recipes likely to satisfy the picky eater(s). At this point, you realize that all the meals that week include chicken, so you go back and sift through recipes again for variety.  After several iterations, you have a meal plan, and you can check ingredient lists to put together a weekly shopping list. After all that, you need a nap! 
-What if you had a way to automate it?  A foodie best friend that hands you a list of personalized recipes and guides you with a shopping list? 
+
+But, let's be honest, putting together a meal plan takes hours! First, you sift through the multitudes of online recipes. Next, you become overwhelmed. Then, you select interesting, but easy recipes likely to satisfy the picky eater(s). At this point, you realize that all the meals that week include chicken, so you go back and wade through recipes for more variety.  After several iterations you're sweating, but you have a meal plan, and you can meticulously check ingredient lists to put together a weekly shopping list. After all that, you need a nap! 
+
+What if you had a foodie best friend that would hand you a list of personalized recipes and guide you with a shopping list? 
 
 ## Welcome Cena, your menu navigator.
 
@@ -16,19 +18,12 @@ Cena will scour recipe websites and deliver a personalized menu plan along with 
 
 Cena will take a minute to get to know you and your food preferences then take off scraping the web for recipes.  Using an algorithm yet-to-be-determined, it will rank recipes, and select a handful for a complete week of meals.  After you approve the suggestion, Cena will compile a shopping list based on the recipe ingredient lists.  
 
-To get to know you, as the eater, Cena will ask about basic dietary restrictions, but then you will get to play a quick game of "Would you rather eat this or that?". Based on the responses to this game, Cena will present your first meal plan.  
-
-As for the algorithm to rank the recipes, some possible inputs include:
-Dietary restrictions (Vegetarian, vegan, gluten free, Kosher, Halal, etc.)
-Similarity to recipes included in the same menu plan, similarity to recipes from previous plans for this user
-Rating of previous meals by this user
-Toddler preferences for light-colored carb-heavy foods
-
-Cena will combine and organize individual recipes into meals, keeping an eye towards reduced complexity or interesting flavor combinations, depending on previous meal ratings.  
+To get to know you, as the eater, Cena will ask about basic dietary restrictions (Vegetarian, vegan, gluten free, Kosher, Halal, etc.). Then you will get to play a quick game of "Would you rather eat this or that?". Based on the responses to this game, and a proprietary algorithm*, Cena will combine individual recipes and present your first meal plan. 
 
 Creating the corresponding shopping lists should be simple since most online recipes include an ingredient list.  Cena practically holds your hand at the grocery store. 
 
-You will be able to rate both meal plans and meals individually.  The more you use it, the better Cena will know you (and users like you).  Cena will utilize machine learning(?) to tailor ever more personalized meal plans for you.  
+Cena will use machine learning to incorporate your ratings of individual meals and overall plans with those of similar users to carefully curate your next meal plan. Do you enjoy simple meals with few ingredients?  Do you love fancy meals that wow all your guests? Do you consistently rate simple, light-colored, carb-heavy meals highly because you are a toddler? The more you use it, the better Cena will know you.
+
 
 ## What will you do with your free time?
 
