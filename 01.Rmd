@@ -6,29 +6,30 @@ menu, menu planning, shopping list, food, dinner, meal, problem solver, we have 
 
 ## Do we really have to eat again?
 
-The daily struggle to come up with a dinner solution is real. Meal planning can help solve the problem by providing a simple plan to follow every night.
+The daily struggle to come up with a dinner solution is real for anyone who eats. Meal planning can help solve the problem by providing a simple plan to follow every night.
 
-But, let's be honest, putting together a meal plan takes hours! First, you sift through the multitudes of online recipes. Next, you become overwhelmed. Then, you select interesting, but easy recipes likely to satisfy the picky eater(s). At this point, you realize that all the meals that week include chicken, so you go back and wade through recipes for more variety.  After several iterations you're sweating, but you have a meal plan, and you can meticulously check ingredient lists to put together a weekly shopping list. After all that, you need a nap! 
+But, let's be honest, putting together a meal plan takes hours! First, you sift through the multitudes of online recipes. Next, you become overwhelmed but get to work. After several iterations you're sweating, but you have a meal plan, and you can meticulously check ingredient lists to put together a weekly shopping list. After all that, you need a nap! 
 
 What if you had a foodie best friend that would hand you a list of personalized recipes and guide you with a shopping list? [@nikolaus_family_2017][@seyitoglu_conceptual_2016]
+
 
 ## Welcome Cena, your menu navigator.
 
 Cena will scour recipe websites and deliver a personalized menu plan along with a shopping list.  
 
-Cena will take a minute to get to know you and your food preferences then take off scraping the web for recipes.  Using an algorithm yet-to-be-determined, it will rank recipes, and select a handful for a complete week of meals.  After you approve the suggestion, Cena will compile a shopping list based on the recipe ingredient lists.  
+To get to know you, as the eater, Cena will ask about basic dietary restrictions (Vegetarian, vegan, gluten free, Kosher, Halal, etc.). Then you will get to play a quick game of "Would you rather eat this or that?". Based on the responses to this game, and ratings by users like you, Cena will combine individual recipes and present your first meal plan. 
 
-To get to know you, as the eater, Cena will ask about basic dietary restrictions (Vegetarian, vegan, gluten free, Kosher, Halal, etc.). Then you will get to play a quick game of "Would you rather eat this or that?". Based on the responses to this game, and a proprietary algorithm*, Cena will combine individual recipes and present your first meal plan. 
+After getting to know the food preferences of those for whom you meal plan, Cena will take off scraping the web for recipes every week.  Using an algorithm yet-to-be-determined[@v_science_nodate], it will rank recipes, and select a handful for a complete week of meals.  After you approve the suggestion, Cena will compile a shopping list based on the recipe ingredient lists. Cena practically holds your hand at the grocery store. 
 
-Creating the corresponding shopping lists should be simple since most online recipes include an ingredient list.  Cena practically holds your hand at the grocery store. 
-
+Since Cena can access the entire internet of recipes, it is not limited in the meal plans it can create.  Cena will work equally well for a single young professional or a large family with kids and grandparents, for a nutrition buff following a strict diet or a comfort food lover.  Even though you may not explicitly state your food health goals, such as lowering cholesterol, Cena will soon learn them. 
+   
 Cena will use machine learning to incorporate your ratings of individual meals and overall plans with those of similar users to carefully curate your next meal plan. Do you enjoy simple meals with few ingredients?  Do you love fancy meals that wow all your guests? Do you consistently rate simple, light-colored, carb-heavy meals highly because you are a toddler? The more you use it, the better Cena will know you.
 
 
 ## What will you do with your free time?
 
-Over time, Cena will learn your preferences. It will plan meals that evoke your childhood or delightfully surprise you by pushing your epicurean boundaries. If Cena ever gets it wrong, you can easily swap out a meal or a whole plan for something different.
+Over time, Cena will learn your preferences. It will plan meals that evoke your childhood or delightfully surprise you by pushing your epicurean boundaries, all while meeting your needs. If Cena ever gets it wrong, you can easily swap out a meal or a whole plan for something different.
 
-Best of all, it will remove the mountain of small decisions from your day, freeing up your time and energy to tackle the big stuff. 
+Best of all, it will remove the mountain of small decisions from your day, freeing up your time and energy to tackle the big stuff. [@tierney_you_2011]
 
 
