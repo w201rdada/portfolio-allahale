@@ -2,11 +2,11 @@
 
 #### Keywords {-}
 
-what's that stitch, knit, pattern creator, garment, sweater, pattern
+what's that stitch, knit, pattern creator, garment, sweater, scarf, hat, mittens, pattern
 
 ## What's that pattern?
 
-You see a knit garment that you must have, but without a pattern, it is difficult to recreate.  
+You see a knit garment that you must make, but without a pattern, it is difficult to recreate. For knitters, this can happen any time, anywhere. Knitting is a popular pastime for people all over the world. There exists an unbelievably large number of knitting patterns dispersed in knitting magazines, books, blogs, or aggregated on Ravelry. Ravelry, a social network for knitters and knitting pattern database, has been gaining membership steadily since its founding in 2007 [@{noauthor_how_2009] and is currently at 7.6 million registered accounts. However, there are many garments that do not have patterns because they are commercially made, designed by a single knitter, or many other reasons.  Sometimes, a knitter spots an item in the wild, and wishes to recreate it, but cannot find the pattern. A talented designer can, of course, reverse engineer most objects. However, Siliki (see it, like it, knit it) automates this process.      
 
 ## Here, have a pattern!
 
@@ -22,4 +22,6 @@ Patterns created utilizing Siliki will be copyrighted to Siliki.  All copyright 
 
 ## Let's knit!
 
-Now that the user has a pattern, the knitting is up to them.  While the ability to obtain a pattern for any garment opens up doors for users, it complicates the current knitwear design ecosystem.  Currently, knitwear design is an artform.  Designers pour significant effort into creating and publishing patterns.  Some designers even depend on sales of their patterns for their livelihood. Something like Siliki, though not infringing on copyright, would open the door for copycat designs that may jeopardize these sales. Designers may respond by reducing the number of photos in their patterns, or otherwise modify the patterns to reduce the effectiveness of Siliki.  
+Now that the user has a pattern, the knitting is up to them. Creation of the garment is still as much of an art as following any other pattern.  The knitter selects the yarn, executes the swatching, knitting, piecing, finishing, and blocking. But the frustrating pattern search for a specific item disappears.  
+
+While the ability to obtain a pattern for any garment opens up doors for users, it complicates the current knitwear design ecosystem.  Currently, knitwear design is an artform.  Designers pour significant effort into creating and publishing patterns.  Some designers even depend on sales of their patterns for their livelihood. Something like Siliki, though not infringing on copyright, would open the door for copycat designs that may jeopardize these sales. Designers may respond by reducing the number of photos in their patterns, or otherwise modify the patterns to reduce the effectiveness of Siliki.  
