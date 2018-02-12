@@ -1,4 +1,4 @@
-# Cena-An Automated Menu Planner {#A digital foodie friend making meal planning easy}
+# Cena-An Automated Menu Planner {#A-digital-foodie-friend}
 
 #### Keywords {-}
 
