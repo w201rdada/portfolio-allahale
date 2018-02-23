@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Siliki: See it, Like it, Knit it {#Siliki}
-=======
-# Siliki- See it, Like it, Knit it {#SILIKI}
->>>>>>> d06d5aaf031c39beaf891ddef84732eefbc60099
 
 #### Keywords {-}
 
