@@ -1,9 +1,5 @@
 # Siliki- See it, Like it, Knit it {#Siliki}
 
-#### Abstract {-}
-
-(ref:abs2)
-
 #### Keywords {-}
 
 what's that stitch, knit, pattern creator, garment, sweater, scarf, hat, mittens, pattern
