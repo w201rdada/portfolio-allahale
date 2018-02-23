@@ -1,9 +1,5 @@
 # Cena-An Automated Menu Planner {#Cena}
 
-#### Abstract {-}
-
-(ref:abs1)
-
 #### Keywords {-}
 
 menu, menu planning, shopping list, food, dinner, meal, problem solver, we have to eat again
