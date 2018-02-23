@@ -1,4 +1,4 @@
-# Siliki {#see it, like it, knit it}
+# Siliki: See it, Like it, Knit it {#Siliki}
 
 #### Keywords {-}
 
