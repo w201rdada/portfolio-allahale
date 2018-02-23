@@ -1,8 +1,4 @@
-# Siliki: See it, Like it, Knit it {#Siliki}
-
-#### Abstract {-}
-
-(ref:abs2)
+# Siliki- See it, Like it, Knit it {#Siliki}
 
 #### Keywords {-}
 
