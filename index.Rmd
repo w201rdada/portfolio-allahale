@@ -4,6 +4,9 @@ author: "Alla Hale"
 date: "MIDS Spring 2018"
 site: bookdown::bookdown_site
 documentclass: book
+bibliography: references.bib
+link-citations: yes
+biblio-style: apalike
 ---
 
 <!-- This won't be displayed but it will initialize your R session. Add any R libraries you need here. -->
@@ -33,13 +36,22 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of Cena {-}
 
+
 Cena, a digital foodie best friend, creates custom meal plans for you.  Meal plans are created with almost no effort by you and are tailored to your preferences.  Cena even holds your hand at the grocery store because all meal plans come with a shopping list.  Let your culinary adventure begin.  Effortlessly.
 
+(ref:abs1) Hi I'm an abstract for your first big idea! I'm also a [text reference](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references), which is a line of text you can reuse in several places. Use me to write a one paragraph abstract and place it in `index.Rmd` as well as under the title of `01.Rmd`. Once defined, you can reuse me simply by writing `(ref:abs1)` where you want this text to go.
+
+(ref:abs1)
 
 ### Abstract of SILIKI {-}
 
 SILIKI, or See It, Like It, Knit It, creates knitting patterns from images of knit garments.  For the non-knitter, a knitting pattern is a construction recipe for an object.  It tells the knitter how many stitches to cast on, how many rows to knit, how shape the fabric, and how to construct the garment.  SILIKI helps the knitter to recreate garments that are spotted out in the wild by providing the knitter with a knitting pattern.
   
+
+(ref:abs2) I'm also an abstract! And a text reference! An abstract is all three acts of your story in a tight little package. You may or may not want to give the ending away, but if you think there's a chance an audience will read this and nothing else, you'd better convey your argument here in miniature. People are busy after all, and there's just so much good tv on the Internet these days.
+
+(ref:abs2)
+
 
 ## About the author {-}
 

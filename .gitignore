@@ -9,6 +9,7 @@
 !01.Rmd
 !02.Rmd
 !03.Rmd
+!99references.Rmd
 !references.bib
 !_output.yml
 !_build.sh
@@ -16,6 +17,8 @@
 !_build+deploy.R
 !_feedback.sh
 !_rundock.sh
+!img/
+!img/*
 !docs/
 !docs/*
 !docs/*/*
