@@ -1,7 +1,7 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
-date: "MIDS Fall 2017"
+author: "Alla Hale"
+date: "MIDS Spring 2018"
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -20,7 +20,10 @@ readLines('https://www.zotero.org/api/users/4661542/items/top?limit=25&format=bi
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+I am Alla Hale, and I would like to welcome you to my W201 Portfolio!  Take a look around, I think you'll enjoy reading about some of my data science ideas.  
+
+I have worked on new product development in several capacities- as an engineer, as a project leader, as an experiment designer, and as a voice-of-customer gatherer.  In my world, new ideas need to solve problems.  The two ideas in this portfolio were born out of problems that I have encountered in my daily life. 
+
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
@@ -28,20 +31,20 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea {-}
+### Abstract of Cena {-}
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+Cena, a digital foodie best friend, creates custom meal plans for you.  Meal plans are created with almost no effort by you and are tailored to your preferences.  Cena even holds your hand at the grocery store because all meal plans come with a shopping list.  Let your culinary adventure begin.  Effortlessly.
 
-### Abstract of my second cool idea {-}
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+### Abstract of SILIKI {-}
+
+SILIKI, or See It, Like It, Knit It, creates knitting patterns from images of knit garments.  For the non-knitter, a knitting pattern is a construction recipe for an object.  It tells the knitter how many stitches to cast on, how many rows to knit, how shape the fabric, and how to construct the garment.  SILIKI helps the knitter to recreate garments that are spotted out in the wild by providing the knitter with a knitting pattern.
   
-### Abstract of my third cool idea {-}
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author {-}
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+I am interested in the application of data science to new product ideation and development.
+
+I received my bachelor of chemical engineering from the University of Minnesota in 2010.  Previously I held roles with Nitto Denko Technical as a Materials Engineer, Kyocera America, Inc. as a Research and New Product Development Engineer.  Currently, I am working with Hexion as a Design for Six Sigma Black Belt.  Supporting the Epoxy Specialties, Phenolic Specialty Resins, and Oilfield Technology business units, I lead new product and process development projects, driven by strong analysis of data and utilization of six sigma methodologies.  I live in the San Francisco Bay Area with my husband and two small, energetic children, and in addition to hiking, I love playing with sticks and string (i.e. knitting).
 
 *Updated: `r Sys.Date()`*

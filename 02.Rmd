@@ -14,9 +14,27 @@ Siliki takes as its input an image of a knit garment, identifies the garment, st
 
 How would a knitter recreate a garment if no pattern exists? There are many questions to answer.  First, we must answer the obvious questions about number of stitches and stitch patterns, then the less obvious questions about best construction techniques, and then the artistic questions about the best shaping techniques for the drape of specific yarns.
 
-From a user submitted photograph, Siliki uses image recognition along with machine learning to identify the type of garment, stitch pattern(s), gauge, and suggested yarn. Once Siliki knows the type of garment, it can identify the most likely construction. The critical measurements required are based on the construction of the garment.  For example, a cardigan with raglan sleeves will require a bust size, length, and desired ease, while a hat would require a head circumference. 
+<!-- You can include images saved within your repo... -->
+```{r Cardigan_1,echo=FALSE,fig.cap='An adorable baby cardigan knit by Alla',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/Cardigan_1.jpg')
+```
 
-Siliki identifies the stitch patterns on the garment based on a machine learning algorithm trained on images from Ravelry's pattern and project database.  Ravelry currently contains more than 740 thousand knit and crochet patterns and 17.5 million knit and crochet projects, most with multiple images.  The challenge here will be to train the algorithm sufficiently such that it recognizes images of the stitch patterns in various yarns, colors, guages, and in very different lighting situations.
+<!-- You can include images saved within your repo... -->
+```{r Cardigan_2,echo=FALSE,fig.cap='Another equally adorable baby cardigan knit by Alla',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/Cardigan_2.jpg')
+```
+From a user submitted photograph, like the examples above, Siliki uses image recognition along with machine learning to identify the type of garment, stitch pattern(s), gauge, and suggested yarn. Once Siliki knows the type of garment, it can identify the most likely construction. The critical measurements required are based on the construction of the garment.  For example, a cardigan with raglan sleeves will require a bust size, length, and desired ease, while a hat would require a head circumference. 
+
+<!-- You can include images saved within your repo... -->
+```{r Baby_Pants,echo=FALSE,fig.cap='An example of an easy to reverse engineer image',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/Baby_Pants.jpg')
+```
+
+<!-- You can include images saved within your repo... -->
+```{r Baby_Pants_2,echo=FALSE,fig.cap='An example of a difficult to reverse engineer image',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/Baby_Pants_2.jpg')
+```
+Siliki identifies the stitch patterns on the garment based on a machine learning algorithm trained on images from Ravelry's pattern and project database.  Ravelry currently contains more than 740 thousand knit and crochet patterns and 17.5 million knit and crochet projects, most with multiple images.  The challenge here will be to train the algorithm sufficiently such that it recognizes images of the stitch patterns in various yarns, colors, guages, and in very different lighting situations.  Several examples of different images of the same cute baby pants are shown above.
 
 Once Siliki identifies the type of garment, the stitch patterns, the guage, and receives the measurements from the user, a pattern can be built following proportional calculations for stitch counts and shaping. Some machine learning will be required here to account for the best shaping methods. Siliki will synthesize all of the output to create a beautifully formatted custom pattern. The pattern will contain information on needle sizes and recommended yarns based on suitability and popularity on Ravelry. Additionally, Siliki will output patterns that are similar to what the user is trying to create. If Ravelry contains a pattern for the exact item the user inputs, or one that matches closely, a link to that pattern will be returned, with the option to purchase it.
 
