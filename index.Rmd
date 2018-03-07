@@ -37,13 +37,13 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 ### Abstract of Cena {-}
 
 
-(ref:abs1) [Cena](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references), a digital foodie best friend, creates custom meal plans for you.  Meal plans are created with almost no effort by you and are tailored to your preferences.  Cena even holds your hand at the grocery store because all meal plans come with a shopping list.  Let your culinary adventure begin.  Effortlessly. Hi I'm an abstract for your first big idea! 
+(ref:abs1) [Cena](https://w201rdada.github.io/portfolio-allahale/Cena.html), a digital foodie best friend, creates custom meal plans for you.  Meal plans are created with almost no effort by you and are tailored to your preferences.  Cena even holds your hand at the grocery store because all meal plans come with a shopping list.  Let your culinary adventure begin.  Effortlessly. Hi I'm an abstract for your first big idea! 
 
 (ref:abs1)
 
 ### Abstract of SILIKI {-}
 
-(ref:abs2) SILIKI, or See It, Like It, Knit It, creates knitting patterns from images of knit garments.  For the non-knitter, a knitting pattern is a construction recipe for an object.  It tells the knitter how many stitches to cast on, how many rows to knit, how shape the fabric, and how to construct the garment.  SILIKI helps the knitter to recreate garments that are spotted out in the wild by providing the knitter with a knitting pattern.
+(ref:abs2) [SILIKI](https://w201rdada.github.io/portfolio-allahale/Siliki.html), or See It, Like It, Knit It, creates knitting patterns from images of knit garments.  For the non-knitter, a knitting pattern is a construction recipe for an object.  It tells the knitter how many stitches to cast on, how many rows to knit, how shape the fabric, and how to construct the garment.  SILIKI helps the knitter to recreate garments that are spotted out in the wild by providing the knitter with a knitting pattern.
 
 (ref:abs2)
 
