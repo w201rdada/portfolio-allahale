@@ -22,7 +22,7 @@
   
   
 
-<meta name="author" content="Oski Bear">
+<meta name="author" content="Alla Hale">
 
 
 
@@ -72,10 +72,10 @@
 <li class="chapter" data-level="1.2" data-path="Cena.html"><a href="Cena.html#welcome-cena-your-menu-navigator."><i class="fa fa-check"></i><b>1.2</b> Welcome Cena, your menu navigator.</a></li>
 <li class="chapter" data-level="1.3" data-path="Cena.html"><a href="Cena.html#what-will-you-do-with-your-free-time"><i class="fa fa-check"></i><b>1.3</b> What will you do with your free time?</a></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="Siliki.html"><a href="Siliki.html"><i class="fa fa-check"></i><b>2</b> Siliki- See it, Like it, Knit it</a><ul>
-<li class="chapter" data-level="2.1" data-path="Siliki.html"><a href="Siliki.html#whats-that-pattern"><i class="fa fa-check"></i><b>2.1</b> What’s that pattern?</a></li>
-<li class="chapter" data-level="2.2" data-path="Siliki.html"><a href="Siliki.html#here-have-a-pattern"><i class="fa fa-check"></i><b>2.2</b> Here, have a pattern!</a></li>
-<li class="chapter" data-level="2.3" data-path="Siliki.html"><a href="Siliki.html#lets-knit"><i class="fa fa-check"></i><b>2.3</b> Let’s knit!</a></li>
+<li class="chapter" data-level="2" data-path="SILIKI.html"><a href="SILIKI.html"><i class="fa fa-check"></i><b>2</b> Siliki-See it, Like it, Knit it</a><ul>
+<li class="chapter" data-level="2.1" data-path="SILIKI.html"><a href="SILIKI.html#whats-that-pattern"><i class="fa fa-check"></i><b>2.1</b> What’s that pattern?</a></li>
+<li class="chapter" data-level="2.2" data-path="SILIKI.html"><a href="SILIKI.html#here-have-a-pattern"><i class="fa fa-check"></i><b>2.2</b> Here, have a pattern!</a></li>
+<li class="chapter" data-level="2.3" data-path="SILIKI.html"><a href="SILIKI.html#lets-knit"><i class="fa fa-check"></i><b>2.3</b> Let’s knit!</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="bibliography.html"><a href="bibliography.html"><i class="fa fa-check"></i>Bibliography</a></li>
 <li class="divider"></li>
@@ -101,30 +101,51 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="Siliki" class="section level1">
-<h1><span class="header-section-number">2</span> Siliki- See it, Like it, Knit it</h1>
+<div id="SILIKI" class="section level1">
+<h1><span class="header-section-number">2</span> Siliki-See it, Like it, Knit it</h1>
 <div id="keywords-1" class="section level4 unnumbered">
 <h4>Keywords</h4>
 <p>what’s that stitch, knit, pattern creator, garment, sweater, scarf, hat, mittens, pattern</p>
 </div>
 <div id="whats-that-pattern" class="section level2">
 <h2><span class="header-section-number">2.1</span> What’s that pattern?</h2>
-<p>You see a knit garment that you must make, but without a pattern, which in the knitting world is a construction recipe, it is difficult to recreate. For knitters, this can happen any time, anywhere. There exists an unbelievably large number of knitting patterns dispersed in knitting magazines, books, blogs, or aggregated on Ravelry. Ravelry, a social network for knitters and knitting pattern database, has been gaining membership steadily since its founding in 2007 <span class="citation">(“How Ravelry Works” <a href="#ref-noauthor_how_2009">2009</a>)</span> and is currently at 7.6 million registered accounts. However, there are many garments that do not have patterns because they are commercially made, designed by a single knitter with sparse notes on loose paper, or many other reasons. Sometimes, a knitter spots an item at the bus stop, in a movie, or elsewhere in the wild, and wishes to recreate it, but cannot find the pattern. A talented designer can, of course, reverse engineer most objects. However, Siliki (see it, like it, knit it) aids the knitter by automating the process of designing a knit object from a photograph.</p>
-<p>Siliki takes as its input an image of a knit garment, identifies the garment, stitch pattern(s), and guage. As an intermediate output, Siliki determines which measurements are required for the particular garment. The user inputs the required measurements, and Siliki produces a custom pattern to recreate the garment.</p>
+<p>You see a knit garment that you must make, but without a knitting pattern*, it is difficult to recreate. For knitters, this can happen any time, anywhere. There exists an unbelievably large number of knitting patterns dispersed in knitting magazines, books, blogs, or aggregated on Ravelry. Ravelry, a social network for knitters and knitting pattern database, has been gaining membership steadily since its founding in 2007 <span class="citation">(“How Ravelry Works” <a href="#ref-noauthor_how_2009">2009</a>)</span> and is currently at 7.6 million registered accounts. However, there are many garments that do not have patterns because they are commercially made, designed by a single knitter with sparse notes on loose paper, or many other reasons. Sometimes, a knitter spots an item at the bus stop, in a movie, or elsewhere in the wild, and wishes to recreate it, but cannot find the pattern. A talented designer can, of course, reverse engineer most objects. However, Siliki (see it, like it, knit it) aids the knitter by automating the process of designing a knit object from a photograph.</p>
+<p>Siliki takes an image of a knit garment as input, identifies the garment, stitch pattern(s), and gauge. As an intermediate output, Siliki determines which measurements are required for the particular garment. The user inputs the required measurements, and Siliki produces a custom pattern to recreate the garment.</p>
+<p>Siliki will provide knitters with knitting patterns to recreate any garment from an image!</p>
 </div>
 <div id="here-have-a-pattern" class="section level2">
 <h2><span class="header-section-number">2.2</span> Here, have a pattern!</h2>
 <p>How would a knitter recreate a garment if no pattern exists? There are many questions to answer. First, we must answer the obvious questions about number of stitches and stitch patterns, then the less obvious questions about best construction techniques, and then the artistic questions about the best shaping techniques for the drape of specific yarns.</p>
-<p>From a user submitted photograph, Siliki uses image recognition along with machine learning to identify the type of garment, stitch pattern(s), gauge, and suggested yarn. Once Siliki knows the type of garment, it can identify the most likely construction. The critical measurements required are based on the construction of the garment. For example, a cardigan with raglan sleeves will require a bust size, length, and desired ease, while a hat would require a head circumference.</p>
-<p>Siliki identifies the stitch patterns on the garment based on a machine learning algorithm trained on images from Ravelry’s pattern and project database. Ravelry currently contains more than 740 thousand knit and crochet patterns and 17.5 million knit and crochet projects, most with multiple images. The challenge here will be to train the algorithm sufficiently such that it recognizes images of the stitch patterns in various yarns, colors, guages, and in very different lighting situations.</p>
-<p>Once Siliki identifies the type of garment, the stitch patterns, the guage, and receives the measurements from the user, a pattern can be built following proportional calculations for stitch counts and shaping. Some machine learning will be required here to account for the best shaping methods. Siliki will synthesize all of the output to create a beautifully formatted custom pattern. The pattern will contain information on needle sizes and recommended yarns based on suitability and popularity on Ravelry. Additionally, Siliki will output patterns that are similar to what the user is trying to create. If Ravelry contains a pattern for the exact item the user inputs, or one that matches closely, a link to that pattern will be returned, with the option to purchase it.</p>
+<div class="figure">
+<img src="https://images4-e.ravelrycache.com/uploads/AlkaPalka/293331614/image_medium2.jpg" alt="Figure 1. An adorable baby cardigan knit by Alla" />
+<p class="caption">Figure 1. An adorable baby cardigan knit by Alla</p>
+</div>
+<div class="figure">
+<img src="https://images4-b.ravelrycache.com/uploads/AlkaPalka/438284983/IMG_1492_medium2.JPG" alt="Figure 2. Another equally adorable baby cardigan knit by Alla" />
+<p class="caption">Figure 2. Another equally adorable baby cardigan knit by Alla</p>
+</div>
+<p>From a user submitted photograph, like the examples above, Siliki uses image recognition along with machine learning to identify the type of garment, stitch pattern(s), gauge, and suggested yarn.** Once Siliki knows the type of garment, it can identify the most likely construction. The critical measurements required are based on the construction of the garment. For example, a cardigan with raglan sleeves will require a bust size, length, and desired ease, while a hat would require a head circumference.</p>
+<div class="figure">
+<img src="https://images4-e.ravelrycache.com/uploads/AlkaPalka/487041826/IMG_5882_medium2.JPG" alt="Figure 3. An example of an easy to reverse engineer image" />
+<p class="caption">Figure 3. An example of an easy to reverse engineer image</p>
+</div>
+<div class="figure">
+<img src="https://images4-b.ravelrycache.com/uploads/AlkaPalka/487321813/IMG_5913_medium2.JPG" alt="Figure 4. An example of an difficult to reverse engineer image" />
+<p class="caption">Figure 4. An example of an difficult to reverse engineer image</p>
+</div>
+<p>Siliki identifies the stitch patterns on the garment based on a machine learning algorithm trained on images from Ravelry’s pattern and project database. Ravelry currently contains more than 740 thousand knit and crochet patterns and 17.5 million knit and crochet projects, most with multiple images. Several examples of different images of the same cute baby pants are shown above. The challenge here will be to train the algorithm sufficiently such that it recognizes images of the stitch patterns in various yarns, colors, guages, and in very different lighting situations. For very complex stitch patterns that are extremely difficult to decipher (e.g. complex and novel lace), Siliki will default to a close, but simpler match.</p>
+<p>Once Siliki identifies the type of garment, the stitch patterns, the gauge, and receives the measurements from the user, a pattern can be built following proportional calculations for stitch counts and shaping. Some machine learning will be required here to account for the best shaping methods. Siliki will synthesize all of the output to create a beautifully formatted custom pattern. The pattern will contain information on needle sizes and recommended yarns based on suitability and popularity on Ravelry. Additionally, Siliki will output patterns that are similar to what the user is trying to create. If Ravelry contains a pattern for a very close match, a link to that pattern will be returned, with the option to purchase it or create the pattern. If the image submitted is one of the images included in an existing pattern, Siliki will not provide a pattern, but only the purchase option.</p>
 <p>If there are errors in the pattern that can be fixed by the user, they may be uploaded to Siliki’s website to inform future patterns. If the user needs help, Siliki will have talented knitwear designers to provide a fix to the user and the database.</p>
 <p>Patterns created utilizing Siliki will be copyrighted to Siliki. All copyright laws will apply.<span class="citation">(“A Matter of Principle” <a href="#ref-noauthor_matter_nodate">2018</a>)</span></p>
 </div>
 <div id="lets-knit" class="section level2">
 <h2><span class="header-section-number">2.3</span> Let’s knit!</h2>
 <p>Now that the user has a pattern, the knitting is up to them. Creation of the garment is still as much of an art as following any other pattern. The knitter selects the yarn, executes the swatching, knitting, piecing, finishing, and blocking. But the frustrating pattern search for a specific item disappears.</p>
-<p>While the ability to obtain a pattern for any garment opens up doors for users, it complicates the current knitwear design ecosystem. Currently, knitwear design is an artform. Designers pour significant effort into creating and publishing patterns. Some designers even depend on sales of their patterns for their livelihood. Something like Siliki, though not infringing on copyright, would open the door for copycat designs that may jeopardize these sales. Designers may respond by reducing the number of photos in their patterns, or otherwise modify the patterns to reduce the effectiveness of Siliki.</p>
+<p>While the ability to obtain a pattern for any garment opens up doors for users, it complicates the current knitwear design ecosystem. Currently, knitwear design is an artform. Designers pour significant effort into creating and publishing patterns. Some designers even depend on sales of their patterns for their livelihood. Something like Siliki, though not infringing on copyright, would open the door for copycat designs that may jeopardize these sales. Designers may respond negatively by reducing the number of photos in their patterns, or otherwise modify the patterns to reduce the effectiveness of Siliki. Alternatively, designers may respond positively and choose to partner with Siliki.</p>
+<ul>
+<li>For non-knitters, a knitting pattern is a construction recipe for a garment.</li>
+</ul>
+<p>** Suggested yarns could be sponsored, leading to a potential additional revenue stream.</p>
 
 </div>
 </div>
