@@ -18,7 +18,6 @@ readLines('https://www.zotero.org/api/users/4661542/items/top?limit=25&format=bi
 
 # Welcome! {-}
 
-<!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/hello-world.png')
 ```
@@ -30,8 +29,8 @@ I have worked on new product development in several capacities- as an engineer, 
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+```{r Alla_Hale_Portfolio,echo=FALSE,fig.cap='Hello!',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1x9qgq6AnDls_HN3LWNw-SdfHba41aNql/preview')
 ```
 
 ### Abstract of Cena {-}
